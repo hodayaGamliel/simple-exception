@@ -2,6 +2,7 @@
 {
         public static void main(String[] args) throws Exception
         {
+        		Thread.sleep(500000);
                         throwExcep();
         }
 
