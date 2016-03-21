@@ -2,7 +2,10 @@
 {
         public static void main(String[] args) throws Exception
         {
-        		Thread.sleep(1000 * 60 * 10);
+                        throwExcep();
+                        throwExcep();
+                      	Thread.sleep(1000 * 60 * 10);
+                        throwExcep();
                         throwExcep();
         }
 
